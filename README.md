@@ -1,2 +1,3 @@
 # Tailwind-project
-HOSTED LINK ==>
+HOSTED LINK ==> https://lekhansh1404.github.io/Tailwind-project/geekster.html
+
